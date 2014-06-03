@@ -62,7 +62,6 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="HomeControllerTest.cs" />
     <Compile Include="HomeControllerTest.cs">
       <SubType>Code</SubType>
     </Compile>
